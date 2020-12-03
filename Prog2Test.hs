@@ -1,7 +1,18 @@
-{- #####################
-   Prog2Test script
-   Homework 2.
-   ##################### -}
+{-
+"Prog2Test.hs" - Test Cases for HW 2 -> Prog2.hs
+West Chester University - CSC 345 - Programming Language Concepts / Paradigms - Fall 2019
+Original format provided by: Richard Burns , distributed with permission.
+Custom additions for Prog2 by: Mahmoud Gudarzi, Anton Adamovich, and Akash Kumar
+
+AUTHORS GIVE NO GUARANTEES THAT TEST CASES ARE CORRECT OR COMPLETE.
+INTRUCTOR HAS FINAL WORD CONCERNING THE FUNCTIONALITY OF YOUR CODE.
+YOU ARE ENCOURAGED TO TEST YOUR CODE INDEPENDENTLY.
+
+Usage: ghci Prog3Test; main
+Dependencies: cabal update
+              cabal install tasty
+              cabal install tasty-hunit
+-}
 
 import Prog2
 
